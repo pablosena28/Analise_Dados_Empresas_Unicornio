@@ -1,0 +1,16 @@
+{
+  "rows": 936,
+  "countries": 47,
+  "cities": 239,
+  "industries": 17,
+  "valuation_total_b": 3071.16,
+  "valuation_median_b": 1.6,
+  "valuation_mean_b": 3.28,
+  "date_min": "2007-07-20",
+  "date_max": "2021-12-07",
+  "missing_city_original": 15,
+  "missing_investors_original": 1,
+  "duplicate_company_names": 1,
+  "unicorns_joined_2021": 480,
+  "brazil_count": 15
+}
